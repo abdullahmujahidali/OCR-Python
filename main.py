@@ -2,7 +2,7 @@ import PyPDF2
 from pdf2image import convert_from_path
 import pytesseract
 
-pdf_path = 'test.pdf'
+pdf_path = 'cv.pdf'
 pdf_file = open(pdf_path, 'rb')
 
 # PyPDF2 for text extraction
