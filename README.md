@@ -1,1 +1,1 @@
-# Python OCR Module# OCR-Python
+# OCR-Python
